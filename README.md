@@ -1,6 +1,6 @@
 # katakuti
 
-A game of katakuti
+A game of katakuti that I started to wrote for making my flutter skills better. I will probably not update this unfinished project.
 
 ## Getting Started
 
