@@ -1,7 +1,7 @@
 # katakuti
 
-A game of katakuti that I started to wrote for making my flutter skills better. I will probably not update this unfinished project.
-
+A game of katakuti that I started to wrote for making my flutter skills better. Pairing with other players feature is a bit unpolished but it has more than 
+what a typical tic-tac-toe game contains like AI a mode and different levels of difficulty. And yes it has a dark mode.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
